@@ -29,3 +29,4 @@ To create a annual sales report for vrinda store so that it canunderstand its cu
 ..Created Pivot Tables on basis of the sample questions taken.
 
 **Dashboard**
+![Screenshot (16)](https://github.com/harshitakilari/Vrinda_store_dashboard/assets/108713558/8ec464b1-500a-4576-92bb-14d85fbf420b)
