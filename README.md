@@ -25,6 +25,7 @@ To create a annual sales report for vrinda store so that it canunderstand its cu
 2. created a new column month based on the date column.
    
 **Data_Analysis**
+
 ..Created Pivot Tables on basis of the sample questions taken.
 
 **Dashboard**
