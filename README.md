@@ -2,6 +2,7 @@
 My first interactive dashboard creation using Ms. Excel based on the annual sales of vrinda stores.
 
 **OBJECTIVE**
+
 To create a annual sales report for vrinda store so that it canunderstand its customers and grow more sales in future.
 
 **Sample_Questions****
