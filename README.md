@@ -30,3 +30,16 @@ To create a annual sales report for vrinda store so that it canunderstand its cu
 
 **Dashboard**
 ![Screenshot (16)](https://github.com/harshitakilari/Vrinda_store_dashboard/assets/108713558/8ec464b1-500a-4576-92bb-14d85fbf420b)
+
+**Insights**
+1. The sales of store are maximum in march as the Number of orders is maximum.
+2. Women are more likely to buy Products than men.
+3. Around 92% of the products (orders) are getting Delivered.
+4. The States: Maharasthra, Karnataka, UtterPradesh, Telangana, TamilNadu Listed as the top 5 buyers.
+5. The Adults( age Group 20-50 years) are Contributing for maximum sales.
+6. Maximum number of Products Orders are from Amazon, Myntra, Flipkart.
+7. Product (Set) is the highest selling Category.
+
+**Conclusion** 
+
+To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
